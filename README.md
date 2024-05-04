@@ -19,4 +19,5 @@ This image displays examples of validation images along with their corresponding
 ### Bounding Box Loss Graph
 
 This graph depicts the loss function over the training epochs.
+
 ![download (3)](https://github.com/harshitstark13/Bird-Boxes/assets/95651978/5065fb01-89dc-4bbb-bca6-89b7910f7750)
